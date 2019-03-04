@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/philnash/mediadevices-camera-selection.git"
+    "url": "git+https://github.com/liejiayong/mediadevices-camera-selection.git"
   },
   "keywords": [
     "webrtc",
     "getUserMedia"
   ],
-  "author": "Phil Nash <philnash@twilio.com>",
+  "author": "liejiayong <809206619@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/philnash/mediadevices-camera-selection/issues"
+    "url": "https://github.com/liejiayong/mediadevices-camera-selection/issues"
   },
-  "homepage": "https://github.com/philnash/mediadevices-camera-selection#readme",
+  "homepage": "",
   "devDependencies": {
-    "serve": "^6.5.5"
+    "serve": "^10.1.2"
   }
 }
